@@ -1,5 +1,4 @@
 soong_namespace {
-    imports: ["vendor/qcom/opensource/commonsys-intf/display"],
 }
 
 display_go_defaults {
